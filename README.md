@@ -11,8 +11,12 @@ This project aims to analyze IMDb movie data to provide insights into various as
 A movie enthusiast wants to discover the most important films within specific genres based on IMDb user ratings and the number of votes those movies have received. This project will identify these high-impact movies and further explore the dynamics between a movie's financial success and its critical reception.
 
 ### Specific Goals:
-1. Determine the highest rated movies within specific genres based on user ratings and vote counts.
-2. Analyze the correlation between a movie’s gross earnings and its IMDb rating to understand the factors contributing to a movie's financial and critical success.
+1. Determine the highest rated movies within specific genres based on user ratings and vote counts. The genres that are going to be analysed are:
+   - Action
+   - Animation
+   - Horror
+   - Sci-Fi
+3. Analyze the correlation between a movie’s gross earnings and its IMDb rating to understand the factors contributing to a movie's financial and critical success.
 
 ## Data Description
 The dataset contains the following columns:
