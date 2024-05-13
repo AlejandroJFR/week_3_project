@@ -1,8 +1,9 @@
 # IMDb Movie Analysis Project
-Group Members
-   a. Alejandro Figueroa
-   b. Raynard Flores
-   
+
+## Group Members
+- Alejandro Figueroa
+- Raynard Flores
+  
 ## Project Overview
 This project aims to analyze IMDb movie data to provide insights into various aspects of the movie industry. Our primary focus is on understanding which movies are most valued by viewers within specific genres and how these preferences correlate with user ratings and vote counts. Additionally, we explore the relationship between a movie's gross earnings and its IMDb rating to determine if higher ratings are indicative of higher earnings or if other factors such as genre or star power influence these metrics more significantly.
 
