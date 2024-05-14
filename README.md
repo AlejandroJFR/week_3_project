@@ -5,7 +5,7 @@
 - Raynard Flores
   
 ## Project Overview
-This project aims to analyze IMDb movie data to provide insights into various aspects of the movie industry. Our primary focus is on understanding which movies are most valued by viewers within specific genres and how these preferences correlate with user ratings and vote counts. Additionally, we explore the relationship between a movie's gross earnings and its IMDb rating to determine if higher ratings are indicative of higher earnings or if other factors such as genre or star power influence these metrics more significantly.
+This project aims to analyze IMDb movie data to provide insights into various aspects of the movie industry. Our primary focus is on understanding which movies are most valued by viewers within specific genres and how these preferences correlate with user ratings and vote counts. Additionally, we explore the relationship between a movie's gross earnings and its IMDb rating to determine if higher ratings are indicative of higher earnings.
 
 ## Problem Statement
 A movie enthusiast wants to discover the most important films within specific genres based on IMDb user ratings and the number of votes those movies have received. This project will identify these high-impact movies and further explore the dynamics between a movie's financial success and its critical reception.
