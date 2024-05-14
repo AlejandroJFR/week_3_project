@@ -15,7 +15,7 @@ A movie enthusiast wants to discover the most important films within specific ge
    - Action
    - Animation
    - Horror
-   - Sci-Fi
+   - History
 3. Analyze the correlation between a movie’s gross earnings and its IMDb rating to understand the factors contributing to a movie's financial and critical success.
 
 ## Data Description
@@ -38,8 +38,10 @@ The dataset contains the following columns:
 ## Hypotheses
 *Here, we will outline our initial hypotheses based on our problem statement. These hypotheses will guide our analysis and help us focus on specific relationships within the data.*
 
-- **Hypothesis 1:** *Placeholder for hypothesis related to ratings and vote counts.*
-- **Hypothesis 2:** *Placeholder for hypothesis related to gross earnings and ratings.*
+- **Hypothesis 1:** Is there a link between a movie's rating and its global earnings?
+- **Hypothesis 2:** Which genre gets more votes?
+- **Hypothesis 3:** Which genre is more profitable considering budget versus revenue?
+- **Hypothesis 4:** Are movie durations significantly different across genre?
 
 ## Analysis Methodology
 We will employ various data analytics techniques including data visualization, statistical testing, and predictive modeling to explore the dataset and validate our hypotheses.
