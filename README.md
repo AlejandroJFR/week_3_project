@@ -8,8 +8,7 @@
 This project aims to analyze IMDb movie data to provide insights into various aspects of the movie industry. Our primary focus is on understanding which movies are most valued by viewers within specific genres and how these preferences correlate with user ratings and vote counts. Additionally, we explore the relationship between a movie's gross earnings and its IMDb rating to determine if higher ratings are indicative of higher earnings, determine which genre (out Action, Animation, Horror, History) generates the most average votes by user, and which one has the longest average runtime.
 
 ## Problem Statement
-A cinephile was curious to discover significant films within specific genres based on IMDB ratings and vote counts. Being a data analyst, he decided to conjured three hypotheses about these top rated movies in order to use
-the techniques he has learned so far: data cleaning, data wrangling, EDA, and data visualization. 
+As cinephiles, we were curious to discover significant films within specific genres based on IMDB ratings and vote counts. As data analysts in training, we developed three hypotheses about these top rated movies in order to use the techniques we have learned so far: data cleaning, data wrangling, EDA, and data visualization. 
 
 ### Specific Goals:
 1. Determine the highest rated movies within specific genres based on user ratings and vote counts. The genres that are going to be analysed are:
