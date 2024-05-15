@@ -64,4 +64,4 @@ Please refer to the contribution guidelines before making a contribution.
 For any queries or discussions regarding the project, please contact [Your Contact Information].
 
 ## Presentation Slides
-[Link to presentation](https://docs.google.com/presentation/d/15jPa1K_91Z-5iHPcOJnAMMG-oB2DUZAlHKpSrnCikVI/edit?usp=sharing)
+[Link to presentation](https://docs.google.com/presentation/d/1ATmncnO1b7QPUmGnZ4c7Y8uMyYl-sD0tpf9TJMTSLbw/edit?usp=sharing)
