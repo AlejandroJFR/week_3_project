@@ -17,7 +17,7 @@ the techniques he has learned so far: data cleaning, data wrangling, EDA, and da
    - Animation
    - Horror
    - History
-   - 
+     
 2. Analyze the correlation between a movie’s gross earnings and its IMDb rating to understand the factors contributing to a movie's financial and critical success.
 3. Of the highest rated movies by genres specified, determine genre which one has the highest average amount of votes.
 4. Of the highest rated movies by genres specified, determine genre which one has the highest average runtime.
@@ -57,16 +57,25 @@ Our second data source is the Movie Database API, which collects movie informati
 ## Analysis Methodology
 We will employ various data analytics techniques including data visualization, EDA, and data wrangling to explore the dataset and validate our hypotheses.
 
-## Results
-*This section will be updated with the results of our analysis, including key findings and any insights gained from the exploration of the dataset.*
+## About the DataSet
+To perform a similar analisis follow these simple steps:
+1.  Download the dataset (you will find it in https://www.sharkattackfile.net/incidentlog.htm)
+2.  Install dependencies into your coding notebook
+3.  Run various codes to explore and analyze the data
+4.  Come up with a conclusion with your findings
 
-## Conclusion
-*Final thoughts and conclusions will be drawn from the results of the analyses performed, highlighting the implications of our findings on movie viewership and industry trends.*
+## Dependencies
+You will need to import the following:
+1. Pandas --> import pandas as pd
+2. Requests --> import requests
+4. Pyplot --> import matplotlib.pyplot as okt
+5. DotEnv --> from dotenv import load_dotenv
+6. Path --> from pathlib import Path
+7. OS --> import os
 
 ## How to Contribute
 Contributions to this project are welcome. You can contribute by:
 - Extending the analysis to include additional movie metrics.
-- Improving the predictive models.
 - Refining the visualizations and interpretations.
 
 Please refer to the contribution guidelines before making a contribution.
